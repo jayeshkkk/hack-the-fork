@@ -1,0 +1,6 @@
+
+# NOVA local memory -- personal, not shared
+.nova/
+.venv/
+__pycache__/
+data/
